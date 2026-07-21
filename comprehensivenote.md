@@ -1,22 +1,20 @@
-#gitgithub #coding
 # The Ultimate Git & GitHub Reference Guide
 
 > **Your complete guide to version control mastery** - From basics to advanced workflows
 ---
-## Table of Contents
+# Table of Contents
 
-1. [Initial Setup](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#initial-setup)
-2. [Repository Initialization](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#repository-initialization)
-3. [Basic Workflow](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#basic-workflow)
-4. [Branching Strategies](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#branching-strategies)
-5. [Remote Operations](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#remote-operations)
-6. [Merging & Rebasing](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#merging--rebasing)
-7. [Undoing Changes](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#undoing-changes)
-8. [Advanced Operations](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#advanced-operations)
-9. [Collaboration Workflows](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#collaboration-workflows)
-10. [Troubleshooting](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#troubleshooting)
-11. [Best Practices](https://claude.ai/chat/c45bcc4b-21ca-4408-bdce-123e7d50080c#best-practices)
-
+1. Initial Setup
+2. Repository Initialization
+3. Basic Workflow
+4. Branching Strategies
+5. Remote Operations
+6. Merging & Rebasing
+7. Undoing Changes
+8. Advanced Operations
+9. Collaboration Workflows
+10. Troubleshooting
+11. Best Practices
 ---
 
 ## Initial Setup
@@ -1349,4 +1347,4 @@ git branch backup-$(date +%Y%m%d-%H%M%S)
 
 ---
 
-_Last updated: March 2026Created with ❤️ for developers who want to master Git_
+_Last but not least: Created with ❤️ for developers who want to master Git_
