@@ -2382,19 +2382,3 @@ History still contains **one latest commit**, but its **hash changes**.
 | Amend without changing message | `git commit --amend --no-edit` |
 | Edit older commit messages | `git rebase -i HEAD~n` |
 
----
-
-## Exam Revision
-
-| Concept | Key Point |
-|---------|-----------|
-| `--amend` | Rewrite latest commit |
-| New commit created? | ❌ No visible extra commit |
-| Commit hash | ✅ Changes |
-| Message editable | ✅ Yes |
-| Files editable | ✅ Yes (staged files) |
-| Safe before push | ✅ Yes |
-| Safe after push | ⚠ Requires `git push --force-with-lease` |
-| Older commits | Use interactive rebase (`git rebase -i`) |
-
-
